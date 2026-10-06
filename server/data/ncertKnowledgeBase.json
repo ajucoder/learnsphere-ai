@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c6_sci_ch1_01",
+    "class": "Class 6",
+    "subject": "Science",
+    "chapter": "Food: Where Does It Come From?",
+    "topic": "Ingredients and Food Sources",
+    "content": "Plant sources provide us with grains, cereals, vegetables, and fruits. Animal sources provide us with milk, meat products, and eggs. Cows, goats, and buffaloes are common animals that give milk. Milk products like butter, cream, cheese, and curd are used all over the world.",
+    "keywords": ["food", "ingredients", "plant sources", "animal sources", "milk", "grains"],
+    "summary": "Food comes from plant and animal sources. Plants provide grains and vegetables, while animals provide milk, eggs, and meat."
+  },
+  {
+    "id": "c6_sci_ch1_02",
+    "class": "Class 6",
+    "subject": "Science",
+    "chapter": "Food: Where Does It Come From?",
+    "topic": "What Do Animals Eat?",
+    "content": "Animals that eat only plants or plant products are called Herbivores (e.g. Cow, Deer, Elephant). Animals that eat other animals are called Carnivores (e.g. Lion, Tiger). Animals that eat both plants and animals are called Omnivores (e.g. Bear, Crow, Human).",
+    "keywords": ["herbivores", "carnivores", "omnivores", "animal classification", "diet"],
+    "summary": "Animals are classified into Herbivores (plant eaters), Carnivores (meat eaters), and Omnivores (both plant and meat eaters)."
+  },
+  {
+    "id": "c6_sci_ch2_01",
+    "class": "Class 6",
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "topic": "Nutrients and Balanced Diet",
+    "content": "The main nutrients in our food are Carbohydrates, Proteins, Fats, Vitamins, and Minerals. Carbohydrates and Fats provide energy to our body. Proteins are needed for growth and repair of our body. Vitamins help in protecting our body against diseases. A balanced diet contains all nutrients in right quantities along with roughage (dietary fibre) and water.",
+    "keywords": ["nutrients", "carbohydrates", "proteins", "fats", "vitamins", "minerals", "balanced diet", "roughage"],
+    "summary": "A balanced diet provides carbohydrates (energy), proteins (growth), fats, vitamins, minerals, roughage, and water in required proportions."
+  },
+  {
+    "id": "c7_sci_ch1_01",
+    "class": "Class 7",
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "topic": "Photosynthesis - Food Making Process in Plants",
+    "content": "Photosynthesis is the process by which green plants manufacture their own food using carbon dioxide and water in the presence of sunlight and chlorophyll. Oxygen is released during this process. Equation: Carbon dioxide + Water --(Sunlight & Chlorophyll)--> Carbohydrate (Glucose) + Oxygen. Leaves have tiny pores called Stomata surrounded by guard cells for gas exchange.",
+    "keywords": ["photosynthesis", "chlorophyll", "stomata", "carbon dioxide", "autotrophic nutrition", "glucose"],
+    "summary": "Green plants make food via photosynthesis using CO2, water, sunlight, and chlorophyll, releasing oxygen as a byproduct."
+  },
+  {
+    "id": "c7_sci_ch3_01",
+    "class": "Class 7",
+    "subject": "Science",
+    "chapter": "Heat",
+    "topic": "Modes of Heat Transfer",
+    "content": "Heat transfers from a hotter object to a colder object. Conduction is the process by which heat passes from the hotter end to the colder end of a solid. Convection is heat transfer in liquids and gases through fluid movement (e.g., land breeze and sea breeze). Radiation is heat transfer without any medium (e.g., heat from the Sun reaching Earth).",
+    "keywords": ["heat transfer", "conduction", "convection", "radiation", "temperature", "thermometer", "sea breeze"],
+    "summary": "Heat transfers via Conduction (solids), Convection (fluids), and Radiation (no medium needed)."
+  },
+  {
+    "id": "c8_sci_ch1_01",
+    "class": "Class 8",
+    "subject": "Science",
+    "chapter": "Crop Production and Management",
+    "topic": "Agricultural Practices and Crop Types",
+    "content": "Kharif crops are sown in the rainy season (June to September) like Paddy, Maize, Soyabean, Groundnut, and Cotton. Rabi crops are grown in the winter season (October to March) like Wheat, Gram, Pea, Mustard, and Linseed. Key agricultural steps include Preparation of soil, Sowing, Adding manure & fertilizers, Irrigation, Protecting from weeds, Harvesting, and Storage.",
+    "keywords": ["kharif crops", "rabi crops", "agriculture", "irrigation", "manure", "fertilizers", "harvesting"],
+    "summary": "Crops are categorized into Kharif (rainy season) and Rabi (winter season). Cultivation involves soil prep, sowing, irrigation, and harvesting."
+  },
+  {
+    "id": "c8_sci_ch2_01",
+    "class": "Class 8",
+    "subject": "Science",
+    "chapter": "Microorganisms: Friend and Foe",
+    "topic": "Useful and Harmful Microorganisms",
+    "content": "Microorganisms include Bacteria, Fungi, Protozoa, and Algae. Viruses are microscopic but reproduce only inside host cells. Friendly microorganisms are used in making curd (Lactobacillus), bread (Yeast fermentation), alcohol, and antibiotics (Penicillin). Harmful microbes cause diseases like Tuberculosis, Cholera, and Malaria. Vaccines protect us by generating antibodies.",
+    "keywords": ["microorganisms", "bacteria", "yeast", "antibiotics", "vaccines", "pathogens", "lactobacillus"],
+    "summary": "Microbes can be beneficial (making curd, bread, antibiotics) or harmful (causing diseases). Vaccines boost immunity."
+  },
+  {
+    "id": "c6_math_ch1_01",
+    "class": "Class 6",
+    "subject": "Mathematics",
+    "chapter": "Integers and Number Line",
+    "topic": "Introduction to Integers",
+    "content": "Integers are a collection of whole numbers and negative numbers: ..., -3, -2, -1, 0, 1, 2, 3, ... Zero is neither positive nor negative. On a number line, moving right increases value, while moving left decreases value. Addition of a positive integer moves right; addition of a negative integer moves left.",
+    "keywords": ["integers", "number line", "positive integers", "negative integers", "zero", "addition of integers"],
+    "summary": "Integers comprise positive numbers, zero, and negative numbers. Number line visualizes values left (smaller) and right (larger)."
+  },
+  {
+    "id": "c7_math_ch2_01",
+    "class": "Class 7",
+    "subject": "Mathematics",
+    "chapter": "Fractions and Decimals",
+    "topic": "Multiplication and Division of Fractions",
+    "content": "To multiply two fractions, multiply their numerators together and denominators together: (a/b) * (c/d) = (a*c)/(b*d). To divide a fraction by another, multiply by its reciprocal: (a/b) / (c/d) = (a/b) * (d/c). Decimals can be converted to fractions by placing the digits over powers of 10.",
+    "keywords": ["fractions", "decimals", "reciprocal", "numerator", "denominator", "fraction multiplication"],
+    "summary": "Multiplying fractions combines numerators and denominators. Division involves multiplying by the reciprocal fraction."
+  },
+  {
+    "id": "c8_math_ch2_01",
+    "class": "Class 8",
+    "subject": "Mathematics",
+    "chapter": "Linear Equations in One Variable",
+    "topic": "Solving Linear Equations",
+    "content": "A linear equation in one variable has the maximum degree of 1, like 2x + 5 = 15. To solve for x, transpose constants to one side using inverse operations: 2x = 15 - 5 => 2x = 10 => x = 5. Whatever operation is performed on the LHS must be performed on the RHS to maintain balance.",
+    "keywords": ["linear equations", "variables", "algebraic expression", "transposition", "LHS", "RHS"],
+    "summary": "Linear equations are solved by transposing constants using inverse operations while preserving equation equality."
+  }
+]

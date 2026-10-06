@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply selection:bg-blue-500 selection:text-white;
+  }
+}
+
+/* Custom Accessibility & Focus Styles */
+:focus-visible {
+  outline: 2px solid #0284c7;
+  outline-offset: 2px;
+}
+
+/* Modern Glassmorphism & Card Styles */
+.glass-panel {
+  @apply bg-white/80 dark:bg-slate-800/80 backdrop-blur-md border border-slate-200/80 dark:border-slate-700/80 shadow-sm;
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 dark:from-blue-400 dark:via-indigo-400 dark:to-purple-400;
+}
+
+/* Skeleton Loading Pulse */
+.skeleton {
+  @apply bg-slate-200 dark:bg-slate-700 animate-pulse rounded;
+}
