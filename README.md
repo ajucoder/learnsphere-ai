@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearnSphere AI - Production-Quality NCERT-Aligned AI Learning Platform (Classes 6-8)
 
 LearnSphere AI is a full-stack, responsive, and accessible AI-powered educational platform engineered specifically for students in Classes 6, 7, and 8.
@@ -196,3 +197,6 @@ Use the **1-Click Demo Persona Buttons** on the login page or enter:
 - [x] AI Provider integration (Gemini API + intelligent RAG fallback)
 - [x] Explicit non-official NCERT disclaimers in banner and footer
 - [x] Clean, error-free Vite React build configuration
+=======
+# learnsphere-ai
+>>>>>>> d6acd72904792c161e3f219c888deffa4cbd420c
